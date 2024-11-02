@@ -2,7 +2,6 @@
 
 '''ADVANCED REQUIREMENTS'''
 
-
 name=input('Enter your name: ')
 print('Hey',name,',Welcome to a small trivia of the capitals of 10 European Countries')
 
